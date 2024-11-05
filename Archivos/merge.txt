@@ -1,3 +1,8 @@
+Ya que la carpeta archivos tiene un archivo, pueden guardarse los cambios, apareciendo como tal la carpeta y su contenido
+
 Juan Esteban Herrera Navarro	
 Edad: 22 años
 Aspiro a crear o hacer participe de grandes proyectos para el avance continuo de la ingeniería, además de estar a la par con las Inteligencias Artificiales, en temas de avance tecnológico.
+
+¿Por qué es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+R/= Porque se puede llegar a perder código de alguno de los dos archivos creados o editados, causando daño al programa o ausencia de código de utilidad.
